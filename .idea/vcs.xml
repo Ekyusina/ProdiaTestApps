@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/$RBC8KYN/BlueEDC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/$RBC8KYN/EDC BIRU" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/$RBC8KYN/Eki/bluetooth/Ezeelink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Eki/bluetooth/Ezeelink" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ezeelink2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GithubUserFinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Project" vcs="Git" />
+  </component>
+</project>
